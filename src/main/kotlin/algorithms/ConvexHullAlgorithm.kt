@@ -1,5 +1,5 @@
 package algorithms
 
 interface ConvexHullAlgorithm {
-    fun convexHull(): List<Pair<Int, Int>>
+    fun convexHull(): List<Pair<Double, Double>>
 }
